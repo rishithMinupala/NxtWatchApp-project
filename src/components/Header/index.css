@@ -1,0 +1,16 @@
+.popup-content {
+  padding: 10px;
+  border-width: 1px;
+  border-radius: 10px;
+  border-color: #f9f9f9;
+}
+
+.light {
+  background-color: #f8fafc;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+}
+
+.dark {
+  border-width: 0px;
+  background-color: #181818;
+}
